@@ -35,24 +35,24 @@ global.sdc = 'https://discord.gg/fu2BQ5RZ' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
 /*============== PAYMENT ==============*/
-global.pdana = '081312651566' //pulsa1
-global.ppulsa = '083870640516' //pulsa2
-global.povo = '081312651566' //ovo
-global.gopay = '081312651566' //gopay
-global.dana = '081312651566' //dana
+global.pdana = '083891815435' //pulsa1
+global.ppulsa = '083891815435' //pulsa2
+global.povo = '083891815435' //ovo
+global.gopay = '083891815435' //gopay
+global.dana = '083891815435' //dana
 global.sid = 's.id' //s.id
 global.psaweria = 'https://saweria.com/ReyzXd' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6281312651566' //whatsapp
-global.nomorbot = '6283870640516' //nomor Bot
-global.nomorown = '6281312651566' //nomor Owner
+global.nomorwa = '6283891815435' //whatsapp
+global.nomorbot = '6283840732331' //nomor Bot
+global.nomorown = '6283891815435' //nomor Owner
 global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = '尺卂千丨Ҩツ' //nama Owner
+global.nameown = 'DEV RIDZ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281312651566', 'RAPIKZ', true] //creator/owner
+  ['6283891815435', 'RIDZ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
