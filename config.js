@@ -24,13 +24,13 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     })
          
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/rapik_gimang' //instagram
+global.sig = 'https://www.instagram.com/invites/contact/?igsh=69putbp6nx4l&utm_content=hq1yney' //instagram
 global.sgh = 'https://github.com/' //github
-global.sgc = 'https://chat.whatsapp.com/K0JUitfx7Wb9w8ZxAwLrjr' //group whatsapp
-global.saluran = 'https://whatsapp.com/channel/0029VaJHq2XFSAsz4dtOTE0T' //saluran whatsapp
-global.syt = 'https://www.youtube.com/@rapik_gimangYT' //youtube
-global.swa = 'https://wa.me/6281312651566' //whatsapp
-global.tele = 'https://t.me/rapikz' //telegram
+global.sgc = 'https://chat.whatsapp.com/E9D1RVmzB1PIfddJA4QRaG' //group whatsapp
+global.saluran = 'https://whatsapp.com/channel/0029Vaul4UxC1FuGCJjcy61S' //saluran whatsapp
+global.syt = 'https://www.youtube.com/@farid gunawan' //youtube
+global.swa = 'https://wa.me/6283891815435' //whatsapp
+global.tele = 't.me/Bangsky1' //telegram
 global.sdc = 'https://discord.gg/fu2BQ5RZ' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
